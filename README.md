@@ -65,4 +65,4 @@ Add screenshots of your app below to showcase the UI:
 |------------------------|------------------------|-------------------------|
 | ![Start Screen](screenshots/start_screen.png) | ![Question Screen](screenshots/question_screen.png) | ![Result Screen](screenshots/result_screen.png) |
 
-> Place your screenshots in a `screenshots/` folder at the root of the project and update the file names above if needed.
+
