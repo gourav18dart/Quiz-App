@@ -21,7 +21,7 @@ A simple and interactive quiz application built with Flutter.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/quiz_app.git
+   git clone https://github.com/gourav18dart/Quiz-App.git
    cd quiz_app
    ```
 2. **Install dependencies:**
@@ -59,7 +59,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots
 
-Add screenshots of your app below to showcase the UI:
 
 | Start Screen           | Question Screen         | Result Screen           |
 |------------------------|------------------------|-------------------------|
